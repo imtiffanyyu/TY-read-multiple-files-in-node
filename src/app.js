@@ -1,3 +1,3 @@
 var dirmast = require ( '../modules/directormaster' )
 
-dirmast.directorymaster (  )
+dirmast.directorymaster ( 'resources' )
