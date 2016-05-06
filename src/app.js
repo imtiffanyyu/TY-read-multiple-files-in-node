@@ -1,1 +1,3 @@
-var dirmast = require ( './modules/directormaster' )
+var dirmast = require ( '../modules/directormaster' )
+
+dirmast.directorymaster (  )
