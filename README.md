@@ -1,4 +1,4 @@
-# Read multiple files in node.js
+# Exercise: Read multiple files in node.js
 
 This is a simple demo that reads json files from a folder and prints the json objects to the console.
 
